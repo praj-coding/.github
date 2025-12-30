@@ -12,7 +12,7 @@ We focus on simplicity, accessibility, and creativity, empowering learners and d
 - Blend creativity and professionalism to make coding approachable for everyone.
 
 ---
-
+ 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS  
 - **Backend / Logic:** Python  
