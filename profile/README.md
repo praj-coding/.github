@@ -38,7 +38,7 @@ We welcome contributions from all skill levels:
 ---
 
 ## 🧑‍💻 Maintainers
-- **Ravi (Pratyush Raj)** → Founder & Lead Developer  
+- ** (Pratyush Raj)** → Founder & Lead Developer  
 - Community contributors who share our vision 🌍  
 
 ---
