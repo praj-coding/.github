@@ -46,7 +46,7 @@ We welcome contributions from all skill levels:
 ## 📫 Connect
 - GitHub: [praj.coding](https://github.com/praj.coding)  
 - Discussions: Open an issue or join our community threads  
-- Email: `praj.asus2308@gmail.com , vedang12legend@gmail.com` (placeholder — replace with real contact)
+- Email: `praj.asus2308@gmail.com , vedang12legend@gmail.com` 
 
 ---
 
