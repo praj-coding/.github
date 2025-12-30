@@ -5,7 +5,7 @@ We focus on simplicity, accessibility, and creativity, empowering learners and d
 
 ---
 
-## 🌟 Mission
+## 🌟 Mission 
 - Create **web projects** using pure HTML & CSS for polished, accessible interfaces.  
 - Develop **Python applications** for automation, data handling, and backend logic.  
 - Encourage **learning by doing** with beginner-friendly repositories.  
